@@ -1,2 +1,2 @@
 # DiscordLanguageParser
-Parses unformmated code segments and resends them
+Parses un-formatted code segments and re-sends them
